@@ -1,0 +1,32 @@
+{
+  "name": "@uojo/deep-map",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard -fix"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uojo/deep-map"
+  },
+  "keywords": [
+    "map",
+    "deep"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uojo/deep-map/issues"
+  },
+  "homepage": "https://github.com/uojo/deep-map",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  },
+  "dependencies": {},
+  "standard": {
+    "ignore": []
+  }
+}

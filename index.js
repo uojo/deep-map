@@ -3,7 +3,7 @@ module.exports = function (data, callback) {
     tags = tags || []
     callback(val, key, pt, tags)
     // 遍历对象
-    if (val === undefined || val===null) {
+    if (val === undefined || val === null) {
 
     } else if (val.constructor === Object) {
       for (var k in val) {

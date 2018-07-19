@@ -1,16 +1,16 @@
-# @uojo/deep-map
+# deep-map
 
 
 ## Install
 To install from npm:
 ```
-npm install --save @uojo/deep-map
+npm install --save deep-map
 ```
 
 ## Usage
 For Node.js:
 ```javascript
-var deepMap = require('@uojo/deep-map');
+var deepMap = require('deep-map');
 var data = {
   a: 1,
   b: {
